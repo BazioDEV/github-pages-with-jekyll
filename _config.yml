@@ -1,17 +1,8 @@
-title: Bazio First Blog Ever
-author: BazioDEV
-email: bazio.apple@gmail.com
-theme: minima
-description: > # this means to ignore newlines until "baseurl:"
- When the sun rise I'm a Junior Developer and Graphic Designer employee of the company.
- But!!! When the sun goes down I will be come a professional DJ that could make some crowd
- go wild for the whole night.
+---
+title: "Bazio First Github Page Profile"
+date: YYYY-MM-DD
+---
 
-# social links
-facebook_username: DJ.Bazio # DO NOT include the @ character, or else the build will fail!
-github_username:  BazioDEV # DO NOT include the @ character, or else the build will fail!
-
-show_excerpts: true # set to false to remove excerpts on the homepage
 # Welcome to Beautiful Jekyll!
 # This config file is meant for settings that affect your entire website. When you first
 # set up your website you should go through all these settings and edit them, but after
@@ -20,7 +11,7 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Bazio Profile
 
 # --- Information of Creator --- #
 
