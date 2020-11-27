@@ -1,3 +1,3 @@
-# Welcome to my blog
+#Welcome to Bazio Blog
 
-I'm glad you are here. I plan to talk about ...
+This is my first Blog on Github
