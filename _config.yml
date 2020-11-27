@@ -1,6 +1,9 @@
 ---
 title: "Bazio First Github Page Profile"
 date: 2020-11-27
+author: BazioDEV
+email: bazio.apple@gmail.com
+theme: minima
 ---
 
 # Welcome to Beautiful Jekyll!
@@ -11,13 +14,11 @@ date: 2020-11-27
 # --- Required options --- #
 
 # Name of website
-title: Bazio Profile
+# title: Bazio Profile
 
 # --- Information of Creator --- #
 
-author: BazioDEV
-email: bazio.apple@gmail.com
-theme: minima
+
 description: > # this means to ignore newlines until "baseurl:"
  When the sun rise I'm a Junior Developer and Graphic Designer employee of the company.
  But!!! When the sun goes down I will be come a professional DJ that could make some crowd
