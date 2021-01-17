@@ -1,1 +1,1 @@
-[![Bazio's github stats](https://github-readme-stats.vercel.app/api?username=baziodev)](https://github.com/anuraghazra/github-readme-stats)
+[![Bazio's github stats](https://github-readme-stats.vercel.app/api?username=baziodevtheme=chartreuse-dark &show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
